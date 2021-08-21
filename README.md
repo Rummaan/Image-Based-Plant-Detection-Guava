@@ -1,7 +1,9 @@
 # Image-Based-Plant-Disease-Detection
+This is the required code of the paper /  report named Image Based Plant Disease Detection
 
-A project on Image Based Plant Disease Detection
-Be sure to read the requirements.txt for using the files correctly.
-Links for accessing the dataset and the model are given in requirements.txt
-
-
+##### Steps ! #####
+1. Download the repository.
+2. Open the folder in an appropriate python IDE.
+3. The IDE will prompt you to create python environment therefore create.
+4. Install the required libraries from the requirements.txt file.
+5. Execute the code.
